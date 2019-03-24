@@ -5,8 +5,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-    <title>Ela - Bootstrap Admin Dashboard Template</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="images/hidro_logo.png">
+    <title>Hidrocapital - Gestión de Equipamiento de Seguridad y Trabajo</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
