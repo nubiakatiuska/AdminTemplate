@@ -1,3 +1,3 @@
 <!-- footer -->
-            <footer class="footer"> © 2018 All rights reserved. Template designed by <a href="https://colorlib.com">Colorlib</a></footer>
+            <footer class="footer" align='center'> © 2019 | Hidrocapital | GTIC | Cordinación de Desarrollo y Administración de Sistemas </footer>
             <!-- End footer -->

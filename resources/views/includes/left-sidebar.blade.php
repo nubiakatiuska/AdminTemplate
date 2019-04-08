@@ -7,13 +7,13 @@
                     <ul id="sidebarnav">
                         <li class="nav-devider"></li>
                         <li class="nav-label">Páginas</li>
-                        <li> <a href="#" aria-expanded="false"><i class="fa fa-home"></i><span class="hide-menu">Inicio </span></a></li>
-                        <hr>
+                        <li> <a href="#" aria-expanded="false"><i class="fa fa-home"></i><span class="hide-menu">Inicio <hr></span></a></li>
+                        
                         <li class="nav-label">Equipamiento de Seguridad</li>
                         <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-briefcase"></i><span class="hide-menu">Dotación</span></a>
                             <ul aria-expanded="false" class="collapse">
-                                <li><a href="email-compose.html">Crear Dotación</a></li>
-                                <li><a href="email-read.html">Listado de Stock</a></li>
+                                <li><a href="dotacion">Crear Dotación</a></li>
+                                <li><a href="mostrar">Listado de Stock</a></li>
                                 <li><a href="email-inbox.html">Agregar Stock</a></li>
                             </ul>
                         </li>
@@ -39,7 +39,7 @@
                             <ul aria-expanded="false" class="collapse">
                                 <li><a href="uc-calender.html">Solicitud</a></li>
                                 <li><a href="uc-datamap.html">Asignación</a></li>
-                                <li><a href="uc-nestedable.html">Listado de Asignaciones</a></li>
+                                <li><a href="uc-nestedable.html">Listado de Asignaciones </a></li><hr>
                                 
                             </ul>
                         </li>
@@ -58,7 +58,7 @@
                         <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-group (alias)"></i><span class="hide-menu">Usuarios</span></a>
                             
                         </li>
-                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-warning (alias)"></i><span class="hide-menu">Roles</span></a>
+                        <li> <a class="has-arrow  " href="#" aria-expanded="false"><i class="fa fa-warning (alias)"></i><span class="hide-menu">Roles<hr></span></a>
                             
                         </li>
                         

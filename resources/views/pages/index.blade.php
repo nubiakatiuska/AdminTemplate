@@ -7,7 +7,7 @@
                     <h3 class="text-primary">Inicio</h3> </div>
                 <div class="col-md-7 align-self-center">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="javascript:void(0)">Páginas</a></li>
+                        <li class="breadcrumb-item"><a href="javascript:void(1)">Páginas</a></li>
                         <li class="breadcrumb-item active">Inicio</li>
                     </ol>
                 </div>
@@ -18,9 +18,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="card">
-                            <div class="card-body"> En esta Sección se encontrarán los formualarios y listados requeridos . 
-                            </div>
-                        </div>
+                            <div class="card-body"> En esta Sección se encontrarán los formualarios y listados y botones
                     </div>
                 </div>
                 <!-- End PAge Content -->

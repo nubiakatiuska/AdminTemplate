@@ -10,7 +10,7 @@
                         <li class="breadcrumb-item"><a href="javascript:void(0)">Páginas</a></li>
                         <li class="breadcrumb-item active">Inicio</li>
                     </ol>
-                 </div>
+                </div>
             </div>
   <!-- End Bread crumb -->
 
@@ -22,15 +22,17 @@
     <div class="row">
         <div class="col-12">
             <div class="card">
-    <!-- Botones  -->
-            <div class="container">   
-               <button type="button" class="btn btn-success">Botón 1</button>
-                <button type="button" class="btn btn-danger">Botón 2</button>
-            </div>  
-    <!--Fin Botones Ver y Editar Stock --> 
+ 
 
+<!-- Botones  -->
+            <div class="container">   
+
+               <button type="button" class="btn btn-danger">Agregar</button>
+               <button type="button" class="btn btn-success">Listado de Dotación</button>
+           </div>    
+    <!--Fin Botones Ver y Editar Stock -->   
                 <!-- Card Interno-con body -->
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-12">
                         <div class="card">
                             <div class="card-body" align="center"> Ingrese Texto
@@ -46,6 +48,36 @@
                         <div class="card">
 
     <!--Formulario  -->
+                    <!--Barra de Busqueda  -->
+                <form class="form-inline" >
+                     <div class="container" align="right">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search" >
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar
+                            </button>
+                    </div>
+                </form>
+
+                <!--Fin Barra de Busqueda  -->
+       
+          <table class="table table-hover table-striped">
+                        <div class="container-fluid">
+                <!-- Encabezados de la tabla que mostrara los datos de la dotaciòn -->
+                        <thead>
+                            <tr>
+                               <th width="20px">ID</th>  
+                               <th width="50px">Nombre del Producto</th>
+                                <!--<th width="20px">Stock</th>-->
+                                <th></th>
+                            </tr>
+                        </thead>
+                    </div>
+            </table>
+                <!-- Fin Encabezados de la tabla que mostrara los datos de la dotaciòn -->
+
+
+
+
+
     <!--Fin formulario -->
 
                         </div>
